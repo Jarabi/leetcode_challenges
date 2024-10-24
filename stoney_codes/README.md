@@ -12,6 +12,10 @@ In computer science, big O notation is used to describe algorithms according to 
 
 **Why do we need Big O?** Big O notation helps us understand how the performance of an algorithm changes as the size of the input grows, providing a simple way to compare and analyse different algorithms' efficiencies.
 
+## Big O Reference Chart
+
+<img src"big-o-complexity-chart.png" width="400" />
+
 ## Big O Summary
 
 | Time Complexity (fastest to slowest)  | Description | Example |
