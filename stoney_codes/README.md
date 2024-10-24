@@ -31,9 +31,9 @@ In computer science, big O notation is used to describe algorithms according to 
 ## Sections
 
 1. Arrays
-    - Contains duplicate - <span style="background-color: green; padding: 5px; border-radius: 5px;">Easy</span>
-    - Missing Number - <span style="background-color: green; padding: 5px; border-radius: 5px;">Easy</span>
-    - Find All Numbers Disappeared in a list - <span style="background-color: green; padding: 5px; border-radius: 5px;">Easy</span>
+    - Contains duplicate - <mark style="background-color: #00FF00; padding: 5px; border-radius: 5px;">Easy</mark>
+    - Missing Number - <mark style="background-color: #00FF00; padding: 5px; border-radius: 5px;">Easy</mark>
+    - Find All Numbers Disappeared in a list - <mark style="background-color: #00FF00; padding: 5px; border-radius: 5px;">Easy</mark>
     - Two Sum
     - How Many Numbers Are Smaller Than the Current Number
     - Minimum Time Visiting All Points
