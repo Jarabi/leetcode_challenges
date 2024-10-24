@@ -1,5 +1,17 @@
 # Leetcode Problems
 
+## Big O - Time and Space Complexity
+
+**Time Complexity:** describes the amount of time necessary to execute an algorithm.
+
+**Space Complexity:** describes the amount of memory or space utilized by an algorithm/program.
+
+In computer science, big O notation is used to describe algorithms according to <em>how fast they run</em> (time complexity) or how much space they take (space complexity) <em>as the input size grows.</em>
+
+**Technical definition: Big O** is a mathematical notation that describes the limiting behaviour of a function when the argument tends towards a particular value or infinity.
+
+**Why do we need Big O?** Big O notation helps us understand how the performance of an algorithm changes as the size of the input grows, providing a simple way to compare and analyse different algorithms' efficiencies.
+
 ## Big O Summary
 
 | Time Complexity (fastest to slowest)  | Description | Example |
