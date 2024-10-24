@@ -1,6 +1,9 @@
-# Contains Duplicate - Easy
+# Contains Duplicate
+
+Challenge: <kbd>Easy</kbd>
 
 ## Description
+
 Given an integer list `nums`, return True if any value appears at least twice in the list,
 or False if every element is distinct.
 
@@ -17,5 +20,5 @@ or False if every element is distinct.
     Output: True
 
 ### Constraints:
-    1 <= nums.length <= 10<sup>5</sup>
-    - -10<sup>9</sup> <= nums[i] <= 10<sup>9</sup>
+    1 <= nums.length <= 10^5
+    -10^9 <= nums[i] <= 10^9
