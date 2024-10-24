@@ -14,7 +14,7 @@ In computer science, big O notation is used to describe algorithms according to 
 
 ## Big O Reference Chart
 
-<img src"big-o-complexity-chart.png" width="400" />
+<img src="big-o-complexity-chart.png" width="400" />
 
 ## Big O Summary
 
