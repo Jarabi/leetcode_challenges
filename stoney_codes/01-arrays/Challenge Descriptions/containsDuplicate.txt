@@ -1,4 +1,4 @@
-Contains Duplicate
+Contains Duplicate - Easy
 
 Given an integer list `nums`, return True if any value appears at least twice in the list,
 or False if every element is distinct.

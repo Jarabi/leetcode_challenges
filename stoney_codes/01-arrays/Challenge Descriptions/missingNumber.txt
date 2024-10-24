@@ -1,4 +1,4 @@
-Missing Number
+Missing Number - Easy
 
 Given a list `nums` containing `n` distinct numbers in the range `[0, n]`,
 return the only number in the range that is missing from the list.
