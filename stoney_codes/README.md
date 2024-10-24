@@ -33,8 +33,7 @@ In computer science, big O notation is used to describe algorithms according to 
 1. Arrays
     - Contains duplicate - Easy
     - Missing Number - Easy
-    - Note: Sorting, Dictionary, Lambdas
-    - Find All Numbers Disappeared in an Array
+    - Find All Numbers Disappeared in a list - Easy
     - Two Sum
     - How Many Numbers Are Smaller Than the Current Number
     - Minimum Time Visiting All Points
