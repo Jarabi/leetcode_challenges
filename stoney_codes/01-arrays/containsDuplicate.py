@@ -1,10 +1,5 @@
 #!/usr/bin/python3
 
-"""Contains Duplicate:
-Given an integer list `nums`, return True if any value appears at least twice in the list,
-or False if every element is distinct.
-"""
-
 def main(nums):
     """
     Checks if `nums` list has duplicates.
