@@ -31,11 +31,11 @@ In computer science, big O notation is used to describe algorithms according to 
 ## Sections
 
 1. Arrays
-    - Contains duplicate - <kbd>Easy</kbd>
-    - Missing Number - <kbd>Easy</kbd>
-    - Find All Numbers Disappeared in a list - <kbd>Easy</kbd>
-    - Two Sum
-    - How Many Numbers Are Smaller Than the Current Number
+    - Contains duplicate &middot; <kbd>Easy</kbd>
+    - Missing Number &middot; <kbd>Easy</kbd>
+    - Find All Numbers Disappeared in a list &middot; <kbd>Easy</kbd>
+    - Two Sum &middot; <kbd>Easy</kbd>
+    - How Many Numbers Are Smaller Than the Current Number &middot; <kbd>Easy</kbd>
     - Minimum Time Visiting All Points
     - Spiral Matrix
     - Number of Islands
