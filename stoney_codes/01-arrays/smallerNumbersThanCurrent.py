@@ -24,12 +24,12 @@ def simple(nums):
     result = []
 
     for i in range(len(nums)):
-        larger_than_count = 0
+        smaller_than_count = 0
         for j in range(len(nums)):
             if nums[i] > nums[j]:
-                larger_than_count += 1
+                smaller_than_count += 1
 
-        result.append(larger_than_count)
+        result.append(smaller_than_count)
     return result
 
 def optimal(nums):
