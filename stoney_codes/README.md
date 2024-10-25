@@ -36,7 +36,7 @@ In computer science, big O notation is used to describe algorithms according to 
     - Find All Numbers Disappeared in a list &middot; <kbd>Easy</kbd>
     - Two Sum &middot; <kbd>Easy</kbd>
     - How Many Numbers Are Smaller Than the Current Number &middot; <kbd>Easy</kbd>
-    - Minimum Time Visiting All Points
+    - Minimum Time Visiting All Points &middot; <kbd>Easy</kbd>
     - Spiral Matrix
     - Number of Islands
 
