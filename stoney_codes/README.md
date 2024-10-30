@@ -37,7 +37,7 @@ In computer science, big O notation is used to describe algorithms according to 
     - Two Sum &middot; <kbd>Easy</kbd>
     - How Many Numbers Are Smaller Than the Current Number &middot; <kbd>Easy</kbd>
     - Minimum Time Visiting All Points &middot; <kbd>Easy</kbd>
-    - Spiral Matrix
+    - Spiral Matrix &middot; <kbd>Medium</kbd>
     - Number of Islands
 
 2. Arrays to Pointers
